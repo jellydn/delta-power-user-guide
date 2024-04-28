@@ -6,10 +6,10 @@ Welcome to the Delta Power User Guide, your comprehensive manual for using the D
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Customizing the Skin](#customizing-the-skin)
 - [Connecting Controllers](#connecting-controllers)
 - [Importing and Running Games](#importing-and-running-games)
   - [NDS BIOS](#nds-bios)
+- [Customizing the Skin](#customizing-the-skin)
 - [Finding Free and Legal ROMs](#finding-free-and-legal-roms)
 - [Features](#features)
 - [Additional Resources](#additional-resources)
@@ -25,14 +25,6 @@ Delta is the spiritual successor to GBA4iOS, rebuilt from the ground up with mod
 - [App Store](https://apps.apple.com/app/delta-game-emulator/id1048524688)
 - [How to Install Delta with AltStore](https://faq.deltaemulator.com/getting-started/how-to-install-delta)
 
-## Customizing the Skin
-
-Delta supports custom skins for both the emulator and controllers. Visit repositories like [KeeWhiSP](https://github.com/keewhi/KeeWhiSP) and [mtcbxDeltaSkin](https://github.com/mtcbx/mtcbxDeltaSkin) to download and apply new skins.
-
-
-https://github.com/jellydn/delta-power-user-guide/assets/870029/b6697bfe-60fc-459d-a7ad-0abcd16dc120
-
-
 ## Connecting Controllers
 
 There are few known compatible [controllers for Delta](https://faq.deltaemulator.com/using-delta/controllers#supported-controllers) but there are few cheap controllers that work well with Delta.
@@ -46,17 +38,19 @@ For specific systems like the Nintendo DS, ensure you have the necessary firmwar
 
 ### NDS [BIOS](./Bios/README.md)
 
-
 https://github.com/jellydn/delta-power-user-guide/assets/870029/ae902756-2e8c-40d8-86fc-a4afb0d8b7f9
 
+## Customizing the Skin
+
+Delta supports custom skins for both the emulator and controllers. Visit repositories like [KeeWhiSP](https://github.com/keewhi/KeeWhiSP) and [mtcbxDeltaSkin](https://github.com/mtcbx/mtcbxDeltaSkin) to download and apply new skins.
+
+https://github.com/jellydn/delta-power-user-guide/assets/870029/b6697bfe-60fc-459d-a7ad-0abcd16dc120
 
 ## Finding Free and Legal ROMs
 
 Visit [Homebrew Hub](https://hh.gbdev.io/) to download free and legal ROMs for various classic systems. This site offers games developed by the community that do not infringe on copyrights.
 
-
 https://github.com/jellydn/delta-power-user-guide/assets/870029/e7826350-e561-462b-a79a-b66627bea37c
-
 
 ## Features
 
