@@ -2,6 +2,8 @@
 
 Welcome to the Delta Power User Guide, your comprehensive manual for using the Delta Emulator on iOS devices. Delta is an all-in-one classic video game emulator designed for non-jailbroken devices, allowing you to play your favorite games from consoles like the Nintendo DS, Game Boy Advance, and more.
 
+[![IT Man - Unlock Retro Gaming: A Complete Delta Emulator Walkthrough](https://i.ytimg.com/vi/dp5O2MzEh-0/hqdefault.jpg)](https://www.youtube.com/watch?v=dp5O2MzEh-0)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
